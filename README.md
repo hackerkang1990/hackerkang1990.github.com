@@ -1,2 +1,2 @@
-# hackerkang1990.github.com
-test github pages
+# huaweikang.com
+The HomePage of Huawei Kang
